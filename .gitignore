@@ -1,3 +1,7 @@
 tmp/*
+<<<<<<< HEAD
+=======
+*.xml
+>>>>>>> fbfbf989191ecb53c9ccc84109eee54f102af302
 *.txt
 
